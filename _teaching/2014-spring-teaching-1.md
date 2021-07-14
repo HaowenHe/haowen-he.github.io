@@ -8,13 +8,5 @@ date: 2020-12-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Written Homework Assignment 1: 1.4.12, 1.4.20, 1.4.27
+  * MATH 1010 Calculus I
