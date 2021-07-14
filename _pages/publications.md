@@ -23,3 +23,10 @@ Department of Cognitive Science, Rensselaer Polytechnic Institute
 <br>
 <i>Advisor: Dr. Bram Van Heuveln</i>
 <br>
+
+<br>
+<b>[Fighting Wildfires](http://haowen-math.com/publications/2015-10-01-paper-title-number-4)</b> <br>
+The Mathematical Contest in Modeling, COMAP
+<br>
+<i>Advisor: Dr. Peter Kramer</i>
+<br>
