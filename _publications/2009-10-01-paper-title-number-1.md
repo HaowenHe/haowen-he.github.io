@@ -1,5 +1,5 @@
 ---
-title: "Modeling and Forecasting Cyanobacterial Blooms in a Eutrophic Drinking-water Reservoir"
+title: "Modeling and Forecasting Cyanobacterial Harmful Algal Blooms (CyanoHABs) in a Eutrophic Drinking-water Reservoir"
 ---
 
 ## Abstract
