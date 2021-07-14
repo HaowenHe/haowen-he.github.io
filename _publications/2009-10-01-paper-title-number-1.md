@@ -1,5 +1,5 @@
 ---
-title: "Modeling and Forecasting Cyanobacterial Harmful Algal Blooms (CyanoHABs) in a Eutrophic Drinking-water Reservoir"
+title: "Modeling and Forecasting Cyanobacterial Harmful Algal Blooms in a Eutrophic Drinking-water Reservoir"
 collection: publications
 permalink: /publications/2009-10-01-paper-title-number-1
 venue: "BIOL 4220 & ERTH 4961 Seminars"
