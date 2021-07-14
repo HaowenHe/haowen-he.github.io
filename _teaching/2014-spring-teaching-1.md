@@ -24,7 +24,7 @@ location: "City, Country"
   * <b>[HW #5 Solution](https://haowen-he.github.io/files/paper1.pdf)</b>  
   
 * Written Homework Assignment #6: 3.8.23, 3.8.35, 3.8.58
-  * <b>[HW #6 Solution](https://haowen-he.github.io/files/paper1.pdf)</b>
+  * <b>[HW #6 Solution (Updated)](https://haowen-he.github.io/files/paper1.pdf)</b>
 
 * Written Homework Assignment #7: 3.9.29, 3.9.47, 3.10.15, 3.10.34
   * <b>[HW #7 Solution](https://haowen-he.github.io/files/paper1.pdf)</b>
@@ -40,3 +40,6 @@ location: "City, Country"
 
 * Written Homework Assignment #11: 5.7.75, 5.7.95, 5.8.33, 6.1.17
   * <b>[HW #11 Solution](https://haowen-he.github.io/files/paper1.pdf)</b>
+
+* Final Exam Review
+  * <b>[Review Exercise Solution](https://haowen-he.github.io/files/paper1.pdf)</b>
