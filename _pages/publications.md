@@ -9,3 +9,10 @@ Department of Biological and Environmental Sciences, Rensselaer Polytechnic Inst
 <br>
 <i>Advisor: Dr. Jeremy Farrell, Dr. Sasha Wagner</i>
 <br>
+
+<br>
+<b>[RPI IDEA Health INCITE Lab SafeCampus](http://haowen-math.com/publications/2009-10-01-paper-title-number-1)</b> <br>
+Institute for Data Exploration and Application, Rensselaer Polytechnic Institute
+<br>
+<i>Advisor: Dr. Kristin Bennett, Dr. John Erickson</i>
+<br>
