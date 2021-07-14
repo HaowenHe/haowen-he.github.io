@@ -9,4 +9,4 @@ location: "City, Country"
 ---
 
 * Written Homework Assignment 1: 1.4.12, 1.4.20, 1.4.27
-  * MATH 1010 Calculus I
+  * MATH 1010 Calculus I /files/paper1.pdf
