@@ -18,7 +18,7 @@ Institute for Data Exploration and Application, Rensselaer Polytechnic Institute
 <br>
 
 <br>
-<b>[Let’s make a deal: The Monty Hall Dilemma Revisited](http://haowen-math.com/publications/2010-10-01-paper-title-number-3)</b> <br>
+<b>[Let’s make a deal: The Monty Hall Dilemma Revisited](http://haowen-math.com/publications/2015-10-01-paper-title-number-3)</b> <br>
 Department of Cognitive Science, Rensselaer Polytechnic Institute
 <br>
 <i>Advisor: Dr. Bram Van Heuveln</i>
