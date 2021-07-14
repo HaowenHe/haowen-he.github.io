@@ -7,7 +7,8 @@ date: 2021-05-06
 ---
 
 <p align="center">
-  <img src="https://haowen-he.github.io/images/HAB.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://haowen-he.github.io/images/HAB.jpg?raw=true" alt="Photo" style="width: 500px;"/> 
+  <img src="https://haowen-he.github.io/images/Rplot 4.06.27 PM.png?raw=true" alt="Photo" style="width: 500px;"/> 
 </p>
 
 ## Descriptions
