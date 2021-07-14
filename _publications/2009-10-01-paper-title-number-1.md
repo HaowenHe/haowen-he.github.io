@@ -1,10 +1,7 @@
 ---
-title: "Multi-Agent Imitation Learning with Copulas"
+title: "Modeling and Forecasting Cyanobacterial Blooms in a Eutrophic Drinking-water Reservoir"
 collection: publications
 permalink: /publications/2009-10-01-paper-title-number-1
-venue: "ECML-PKDD 2021"
-date: 2021-6-19
-citation: 'Hongwei	Wang*, <b>Lantao Yu</b>* (equal contribution), Zhangjie Cao, Stefano Ermon. <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i>. <b>ECML-PKDD 2021</b>.'
 ---
 
 [[PDF]](https://arxiv.org/pdf/2107.04750.pdf)
