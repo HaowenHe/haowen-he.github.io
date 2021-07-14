@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 
 * Written Homework Assignment #1: 1.4.12, 1.4.20, 1.4.27
-  * <b>[HW #1 Solution](https://haowen-he.github.io/files/paper1.pdf)</b> 
+  * <b>[HW #1 Solution](https://haowen-he.github.io/pages/404)</b> 
   
 * Written Homework Assignment #2: 1.5.5, 1.5.39, 1.5.48
   * <b>[HW #2 Solution](https://haowen-he.github.io/files/paper1.pdf)</b> 
