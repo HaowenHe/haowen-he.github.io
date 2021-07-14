@@ -1,9 +1,9 @@
 ---
 title: "Multi-Agent Imitation Learning with Copulas"
 collection: publications
-permalink: /publications/2009-10-01-paper-title-number-1
-venue: ""
-date: 
+permalink: /publications/ECML21
+venue: "ECML-PKDD 2021"
+date: 2021-6-19
 ---
 
 ## Abstract
