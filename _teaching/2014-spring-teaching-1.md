@@ -1,7 +1,7 @@
 ---
 title: "MATH 1010 Calculus I"
 collection: teaching
-type: "Introductory Course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "RPI, Department of Mathematical Sciences"
 date: 2020-12-01
