@@ -2,7 +2,7 @@
 title: "RPI IDEA Health INCITE Lab SafeCampus Project"
 collection: publications
 permalink: /publications/2010-10-01-paper-title-number-2
-venue: "Health Anlytcs Challenges Lab"
+venue: "Health Analytics Challenges Lab"
 date: 2020-08-22
 ---
 
@@ -11,8 +11,6 @@ date: 2020-08-22
 </p>
 
 ## Descriptions
-* Assessed the effects of surface water temperature, droughts, which caused extremes in reservoir elevation, and chlorophyll on cyanobacterial abundance respectively via Spearman’s rank correlation, time series and cluster analysis
-* Proposed and analyzed mathematical models describing the population dynamics of harmful algae and toxin production and decay under ecological eutrophication, and studied the bifurcation behaviors and stability of the model
-* Forecasted and mapped onsets of cyanobacterial blooms via a nonparametric machine learning approach, using a gradient boosted regression tree model
-* Investigated the relationship between the warming of surface waters and the stratification, and explored its impact on cyanoHAB events as cyanobacteria may encounter less competition for nutrients under stratified conditions
-* Visualized the characteristics of cyanoHABs and the relationship between predictor variables and cyanobacterial abundance using JMP and R
+* Worked as an undergraduate research assistant to build an app that reveals the anonymous usage of Wi-Fi access points and aggregations of wireless users on the campus network at Rensselaer Polytechnic Institute
+* Developed quantitative approaches that help college administrators simulate campus re-open plans and predict future conditions, including campus de- densification, campus network mapping, and selected social distancing models
+* Built an interactive geographic dashboard to present analysis and visualizations of WAP data to users so they can make informed decisions on where to go for extended periods of time on campus during the COVID-19 pandemic
