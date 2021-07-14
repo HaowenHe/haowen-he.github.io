@@ -10,6 +10,15 @@ date: 2021-02-06
   <img src="https://haowen-he.github.io/images/Screen Shot 2021-07-07 at 8.25.14 PM.png?raw=true" alt="Photo" width="600" height="300"/> 
 </p>
 
+<p align="center">
+  <img alt="Light" src="https://haowen-he.github.io/images/Screen Shot 2021-07-14 at 4.08.05 AM.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://haowen-he.github.io/images/Screen Shot 2021-07-07 at 8.25.14 PM.png" width="45%">
+</p>
+
 ## Descriptions
 * Formulated a quantitative model to determine the optimal strategic planning of drone-aided firefighting using Partition method and Lagrangian Relaxation
 * Developed a predictive machine learning regression model to adapt the original operational plan for the changing likelihood of future extreme fire events
+
+
+
