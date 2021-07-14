@@ -9,6 +9,6 @@ location: "City, Country"
 ---
 
 * Written Homework Assignment 1: 1.4.12, 1.4.20, 1.4.27
-  * <b>[HW #1 Solution](http://haowen-math.com/teaching/2014-spring-teaching-1)</b> 
+  * <b>[HW #1 Solution](https://haowen-he.github.io/teaching/2014-spring-teaching-1)</b> 
  
  
