@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "MATH 1010 Calculus I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Rensselaer Polytechnic Institute, Department of Mathematical Sciences"
+date: 2020-12-01
 location: "City, Country"
 ---
 
