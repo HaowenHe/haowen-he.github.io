@@ -2,7 +2,7 @@
 title: "Multi-Agent Imitation Learning with Copulas"
 collection: publications
 permalink: /publications/2009-10-01-paper-title-number-1
-venue: "BIOL 4220 & ERTH 4961 Seminars"
+venue: "BIOL 4220 & ERTH 4961"
 date: 2021 
 ---
 
