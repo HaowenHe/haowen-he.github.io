@@ -1,5 +1,7 @@
 ---
 title: "Modeling and Forecasting Cyanobacterial Harmful Algal Blooms (CyanoHABs) in a Eutrophic Drinking-water Reservoir"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
 ---
 
 ## Abstract
