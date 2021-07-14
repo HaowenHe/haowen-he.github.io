@@ -2,8 +2,8 @@
 title: "Multi-Agent Imitation Learning with Copulas"
 collection: publications
 permalink: /publications/2009-10-01-paper-title-number-1
-venue: "2021"
-date: 2009-10-01
+venue: "BIOL 4220 & ERTH 4961"
+date: 2020 Fall & 2021 Spring
 ---
 
 ## Abstract
