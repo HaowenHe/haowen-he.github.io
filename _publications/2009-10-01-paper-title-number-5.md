@@ -3,7 +3,7 @@ title: "Jefferson Project at Lake George: Tree Crown Segmentation from LiDAR Dat
 collection: publications
 permalink: /publications/2009-10-01-paper-title-number-5
 venue: "Darrin Fresh Water Institute (DFWI)"
-date: 2021-12-06
+date: 2021-12-09
 ---
 
 <p align="center">
