@@ -8,4 +8,4 @@ author_profile: true
 
 * <b>[RPI SafeCampus Dashboard](https://inciteprojects.idea.rpi.edu/apps/safecampus/)</b> 
   
-* <b>[The Monty Hall](http://montyhall.bram-hub.com/education)</b> 
+* <b>[The Monty Hall](http://montyhall.bram-hub.com/)</b> 
