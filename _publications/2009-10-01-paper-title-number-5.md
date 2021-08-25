@@ -7,8 +7,9 @@ date: 2021-12-09
 ---
 
 <p align="center">
-  <img src="https://haowen-he.github.io/images/Screen Shot 2021-08-25 at 5.17.04 AM.png?raw=true" alt="Photo" width="500" height="400"/> 
-  <img src="https://haowen-he.github.io/images/Screen Shot 2021-08-25 at 5.18.16 AM.png?raw=true" alt="Photo" width="500" height="400"/> 
+  <img alt="Light" src="https://haowen-he.github.io/images/Screen Shot 2021-08-25 at 5.17.04 AM.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://haowen-he.github.io/images/Screen Shot 2021-08-25 at 5.18.16 AM.png" width="45%">
 </p>
 
 ## Descriptions
