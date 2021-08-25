@@ -1,9 +1,9 @@
 ---
-title: "Modeling and Forecasting Cyanobacterial Harmful Algal Blooms in a Eutrophic Drinking-water Reservoir"
+title: "Jefferson Project at Lake George: Tree Crown Segmentation from LiDAR Data"
 collection: publications
-permalink: /publications/2009-10-01-paper-title-number-1
-venue: "BIOL 4220 & ERTH 4961 Seminars"
-date: 2021-05-06
+permalink: /publications/2009-10-01-paper-title-number-5
+venue: "Darrin Fresh Water Institute (DFWI)"
+date: 2021-12-06
 ---
 
 <p align="center">
