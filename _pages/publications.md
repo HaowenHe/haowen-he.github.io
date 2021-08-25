@@ -3,8 +3,8 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-<br>
-<b>[Jefferson Project at Lake George: Tree Crown Segmentation from LiDAR Data](http://haowen-math.com/publications/2009-10-01-paper-title-number-1)</b> <br>
+<br> 
+<b>[Jefferson Project at Lake George: Tree Crown Segmentation from LiDAR Data](http://haowen-math.com/publications/2009-10-01-paper-title-number-5)</b> <br>
 Darrin Fresh Water Institute (DFWI), Rensselaer Polytechnic Institute
 <br>
 <i>Advisor: Dr. Thomas Morgan</i>
