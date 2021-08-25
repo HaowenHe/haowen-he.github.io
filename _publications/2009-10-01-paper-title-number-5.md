@@ -13,5 +13,5 @@ date: 2021-12-09
 </p>
 
 ## Descriptions
-* The project will support tree species identification in the Lake George watershed as part of an ongoing project to locate and study the impact of Hemlock Woolley Adelgid, an invasive species, on trees around the lake. The specific task will be to evaluate existing tree top detection and crown outlining algorithms, investigate and apply innovative methods to improve results and ultimately allow the extraction of LiDAR point reflections from individual trees in isolation.
+The project will support tree species identification in the Lake George watershed as part of an ongoing project to locate and study the impact of Hemlock Woolley Adelgid, an invasive species, on trees around the lake. The specific task will be to evaluate existing tree top detection and crown outlining algorithms, investigate and apply innovative methods to improve results and ultimately allow the extraction of LiDAR point reflections from individual trees in isolation.
 
