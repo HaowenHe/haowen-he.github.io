@@ -16,7 +16,7 @@ main:
   # url: /year-archive/
     
   - title: "CV"
-    url: /files/HeHaowen-CV.pdf
+    url: /cv/
 
   - title: "Links"
     url: /portfolio/
