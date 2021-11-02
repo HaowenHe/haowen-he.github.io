@@ -12,7 +12,7 @@ author_profile: true
   * AP Calculus BC 
   * COMM+D Center Writing Tutoring [Schedule an Appointment Here]
 * Fall 2020, Rensselaer Polytechnic Institute:
-  * <b>[MATH 1010 Calculus 1](http://haowen-math.com/teaching/2014-spring-teaching-1)</b> 
+  * <b>[MATH 1010 Calculus I](http://haowen-math.com/teaching/2014-spring-teaching-1)</b> 
   * COMM+D Center Writing Tutoring [Schedule an Appointment Here]
 * Fall 2019, Rensselaer Polytechnic Institute:
   * MATH 1010 Calculus I 
