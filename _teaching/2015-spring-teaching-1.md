@@ -2,7 +2,7 @@
 title: "MATH 1010 Calculus I"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "RPI, Department of Mathematical Sciences"
 date: 2021-12-01
 location: "City, Country"
