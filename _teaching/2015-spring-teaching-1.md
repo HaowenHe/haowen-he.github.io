@@ -1,5 +1,5 @@
 ---
-title: "MATH 1010 Calculus I"
+title: "MATH 1010 Calculus 1"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
