@@ -9,7 +9,7 @@ date: 2021-02-06
 <p align="center">
   <img alt="Light" src="https://haowen-he.github.io/images/wildfire.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://haowen-he.github.io/images/Screen Shot 2021-07-14 at 4.08.19 AM.png" width="53%">
+  <img alt="Dark" src="https://haowen-he.github.io/images/Screen Shot 2021-07-14 at 4.08.19 AM.png" width="52%">
 </p>
 
 ## Descriptions
