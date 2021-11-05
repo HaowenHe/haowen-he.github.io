@@ -7,7 +7,7 @@ date: 2021-05-06
 ---
 
 <p align="center">
-  <img src="https://haowen-he.github.io/images/HAB.jpg?raw=true" alt="Photo" width="800" height="400" /> 
+  <img src="https://haowen-he.github.io/images/HAB.jpg?raw=true" alt="Photo" width="90%"> 
 </p>
 
 <p align="center">
