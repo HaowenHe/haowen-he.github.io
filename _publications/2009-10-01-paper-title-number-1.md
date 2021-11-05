@@ -12,9 +12,9 @@ date: 2021-05-06
 
 <p align="center">
   <img src="https://haowen-he.github.io/images/filenamehere.gif?raw=true" alt="showcase gif" width="30%"> 
-  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; 
   <img src="https://haowen-he.github.io/images/Rplot 4.06.27 PM.png?raw=true" alt="Photo" width="30%"> 
-  &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; 
   <img src="https://haowen-he.github.io/images/Picture2.gif" alt="showcase gif" width="30%">
 </p>
 
