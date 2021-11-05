@@ -11,11 +11,11 @@ date: 2021-05-06
 </p>
 
 <p align="center">
-  <img src="https://haowen-he.github.io/images/HAB.jpg?raw=true" alt="Photo" width="30%"> 
+  <img src="https://haowen-he.github.io/images/Picture1.png?raw=true" alt="Photo" width="30%"> 
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://haowen-he.github.io/images/Rplot 4.06.27 PM.png?raw=true" alt="Photo" width="30%"> 
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://haowen-he.github.io/images/x_z.gif" alt="Databay showcase gif" width="30%">
+  <img src="https://haowen-he.github.io/images/Picture2.gif" alt="Databay showcase gif" width="30%">
 </p>
 
 ## Descriptions
