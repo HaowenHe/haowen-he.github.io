@@ -7,9 +7,15 @@ date: 2021-05-06
 ---
 
 <p align="center">
-  <img src="https://haowen-he.github.io/images/HAB.jpg?raw=true" alt="Photo" width="45%"> 
+  <img src="https://haowen-he.github.io/images/HAB.jpg?raw=true" alt="Photo" width="800" height="600" /> 
+</p>
+
+<p align="center">
+  <img src="https://haowen-he.github.io/images/HAB.jpg?raw=true" alt="Photo" width="30%"> 
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://haowen-he.github.io/images/Rplot 4.06.27 PM.png?raw=true" alt="Photo" width="45%"> 
+  <img src="https://haowen-he.github.io/images/Rplot 4.06.27 PM.png?raw=true" alt="Photo" width="30%"> 
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://haowen-he.github.io/images/x_z.gif" alt="Databay showcase gif" width="30%">
 </p>
 
 ## Descriptions
