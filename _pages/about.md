@@ -9,5 +9,5 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://haowen-he.github.io/images/x_z.gif" alt="Databay showcase gif" width="480" height="480" />
+  <img src="https://haowen-he.github.io/images/x_z.gif" alt="Databay showcase gif" width="90%">
 </p>
