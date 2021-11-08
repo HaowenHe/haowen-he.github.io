@@ -7,7 +7,7 @@ date: 2020-08-22
 ---
 
 <p align="center">
-  <img src="https://haowen-he.github.io/images/Screen Shot 2021-07-14 at 3.39.21 AM.png?raw=true" alt="Photo" width="600" height="300"/> 
+  <img src="https://haowen-he.github.io/images/Screen Shot 2021-07-14 at 3.39.21 AM.png?raw=true" alt="Photo" width="90%"> 
 </p>
 
 ## Descriptions  
